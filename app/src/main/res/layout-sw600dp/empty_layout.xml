@@ -23,7 +23,7 @@
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:context="com.adsama.android.bakeup.MainActivity" />
+            tools:context="com.example.android.bestreceipe.MainActivity" />
 
         <TextView
             android:id="@+id/instructions_tv"

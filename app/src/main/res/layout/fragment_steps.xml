@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context="com.adsama.android.bakeup.StepsFragment">
+    tools:context="com.example.android.bestreceipe.StepsFragment">
 
     <TextView
         android:id="@+id/tv_recipe_steps_heading"

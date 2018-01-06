@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        tools:context="com.adsama.android.bakeup.DetailActivity">
+        tools:context="com.example.android.bestreceipe.DetailActivity">
 
         <com.google.android.exoplayer2.ui.SimpleExoPlayerView
             android:id="@+id/exoPlayer"

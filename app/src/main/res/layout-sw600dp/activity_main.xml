@@ -9,13 +9,13 @@
     android:divider="?android:attr/dividerHorizontal"
     android:orientation="horizontal"
     android:showDividers="middle"
-    tools:context="com.adsama.android.bakeup.MainActivity">
+    tools:context="com.example.android.bestreceipe.MainActivity">
 
     <FrameLayout
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        tools:context="com.adsama.android.bakeup.MainActivity">
+        tools:context="com.example.android.bestreceipe.MainActivity">
 
         <android.support.v4.widget.DrawerLayout
             android:id="@+id/drawer_layout"
